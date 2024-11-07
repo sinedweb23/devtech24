@@ -1,0 +1,36 @@
+[21-May-2024 20:08:48 America/Sao_Paulo] Falha na conexão com o banco de dados.
+[21-May-2024 20:09:19 America/Sao_Paulo] Conexão com o banco de dados estabelecida.
+[21-May-2024 20:09:19 America/Sao_Paulo] Consultas executadas com sucesso.
+[21-May-2024 20:10:30 America/Sao_Paulo] Conexão com o banco de dados estabelecida.
+[22-May-2024 11:56:21 UTC] Username recebido: admin
+[22-May-2024 11:56:21 UTC] Senha recebida: de335681
+[22-May-2024 11:56:21 UTC] Usuário encontrado: Array
+(
+    [password] => $2y$10$l4mUzKO/dtXWLlORaf4VyOGLuwClqeZAvtH5GOVMsjKPqN3VKzT5.
+)
+
+[22-May-2024 11:56:21 UTC] Resposta de autenticação: {"autenticado":true}
+[30-May-2024 23:16:56 UTC] Username recebido: teste
+[30-May-2024 23:16:56 UTC] Senha recebida: 123456
+[30-May-2024 23:16:56 UTC] Usuário encontrado: Array
+(
+    [password] => $2y$10$FfujFnZ3SMs1YAF3WDNRCuNabNuNYAt1fxbWnQ89AMeVVMg2lF3gu
+)
+
+[30-May-2024 23:16:57 UTC] Resposta de autenticação: {"autenticado":true}
+[30-May-2024 23:23:30 UTC] Username recebido: teste
+[30-May-2024 23:23:30 UTC] Senha recebida: 123456
+[30-May-2024 23:23:30 UTC] Usuário encontrado: Array
+(
+    [password] => $2y$10$FfujFnZ3SMs1YAF3WDNRCuNabNuNYAt1fxbWnQ89AMeVVMg2lF3gu
+)
+
+[30-May-2024 23:23:30 UTC] Resposta de autenticação: {"autenticado":true}
+[31-May-2024 13:36:52 UTC] Username recebido: teste
+[31-May-2024 13:36:52 UTC] Senha recebida: 123456
+[31-May-2024 13:36:52 UTC] Usuário encontrado: Array
+(
+    [password] => $2y$10$FfujFnZ3SMs1YAF3WDNRCuNabNuNYAt1fxbWnQ89AMeVVMg2lF3gu
+)
+
+[31-May-2024 13:36:52 UTC] Resposta de autenticação: {"autenticado":true}
